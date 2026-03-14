@@ -71,3 +71,55 @@ The project generates multiple visual insights including:
 ---
 
 ## Project Structure
+Customer-Churn-Prediction
+│
+├── churn_project.py
+├── app.py
+├── requirements.txt
+├── README.md
+│
+└── outputs
+├── churn_distribution.png
+├── churn_by_contract.png
+├── correlation_heatmap.png
+├── model_comparison.png
+├── confusion_matrix_random_forest.png
+├── confusion_matrix_logistic_regression.png
+└── top_10_feature_importance.png
+
+---
+
+## Running the Project
+
+### Install dependencies
+
+### Run the machine learning pipeline
+
+### Launch the Streamlit dashboard
+
+---
+
+## Dataset
+
+Telco Customer Churn Dataset  
+Source: Kaggle
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+---
+
+## Future Improvements
+
+- Deploy the Streamlit dashboard online
+- Add more ML models such as XGBoost
+- Perform hyperparameter tuning
+- Add real-time prediction interface
+
+---
+
+## Author
+
+Sacheendra Lazar Paul  
+B.Tech Computer Science Student  
+Python | Data Science | Machine Learning
+
